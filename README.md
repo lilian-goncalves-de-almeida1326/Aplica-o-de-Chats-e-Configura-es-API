@@ -1,2 +1,2 @@
 # Aplicação de Chats e Configurações de API
-Aplicação de Chats e Configurações API
+No segundo exercicio  proposto pelo professor Pablo Lopes, compartilha sobre a implementação de APIs no Azure OpenAI e introduz conceitos de Agentes de IA. O curso requer acesso ao Azure OpenAI e noções de LLMs e codificação. O conteúdo aborda chamadas de API, como usar o Semantic Kernel e funcionalidades do Azure, incluindo chat, completions, e geração de imagens. Demonstra como chamar objetos via código e ressalta a importância do armazenamento seguro e do monitoramento no Azure. O Semantic Kernel, atuando como middleware de IA, oferece funcionalidades adicionais e uma arquitetura baseada em Kernel, Skills, Functions e Memory. Links úteis são fornecidos para aprofundamento.
